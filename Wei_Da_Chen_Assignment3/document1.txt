@@ -1,0 +1,197 @@
+
+
+
+ Transcript of Judge Marilyn Hall Patel's ruling
+
+ Editor's note: Last week, U.S. District Judge Marilyn Hall
+ Patel ruled that the popular online music-swapping site
+ Napster must halt the distribution of copyrighted material
+ by midnight PT Friday, July 28.
+
+ Faced with going out of business, Napster quickly filed an
+ appeal with 9th U.S. Circuit Court of Appeals; with hours to
+ spare, the company received a stay on the injunction.
+
+ This is a complte transcript of Patel's decision, which was
+ issued orally, in which she explains the basis for granting
+ the injunction. Because it marks one of the first times a
+ judge has issued a decion in a case of online
+ music-swapping, Patel's interpretation of the law is likely
+ to be widely cited in subsequent cases and will be crucial
+ to the Court of Appeals as it grapples wih the case.
+
+ The court: Well, counsel. A lot of paper has been filed in
+ this case and I suppose we could hear a lot more argument,
+ and we could take a lot more time with this. And ultimately
+ I will reduce the court's decision to writing, but I think
+ it's time for there to be a decision on the reliminary
+ injunction motion because you have been waiting for this and
+ you have been through a round of motions ealier under the
+ Digital Millennium Copyright Act. I think that plenty of
+ time has been expended in preparing for the motion.
+ Certainly plenty of papre has been expended as well, that
+ the court is able to render a decision on the motion for
+ preliminary injunction.
+
+ To prevail on a motion for preliminary injunction--and this
+ is going to take a while because I'm going to go through the
+ elements and the claims and defenses--but to prevail on a
+ motion for a preliminary injunction, plaintiffs must
+ demonstrate a combination of probable success on the
+ merits--and possibility of irreparable harm or on the
+ continuum scale of serious lagel questions that are
+ raised--and a balance of hardships tipping in the
+ plaintiffs' favor. I think it's safer to stay with the first
+ of those; in other words, the higher end of the continuum.
+
+ In copyright cases the reasonable likelihood of success on
+ the merits does create a presumption or irreparable harm.
+ And don't everybody go bolting for the door, but I will tell
+ you right now what my conclusion is on that and then go
+ thrugh the reasons for it.
+
+ I find that plaintiffs have shown not just a reasonable
+ likelihood of success but a strong likelihood of success on
+ the merits. First of all with respect to  [Napster wildfire]
+ diret infringement, because in order to
+ establish either contributory or vicarious liability, they
+ must establish direct infringement by a third party, in this
+ case the users of Napster.
+
+ And here the evidence establishes that a majority of Napster
+ users use the service to download and upload copyrighted
+ music. This, in fact, should come as no surprise to Napster,
+ since that really--it's clear from the evidence in this case
+ and the early records that were divulged in discovery--was
+ the purpose of it.
+
+ And by doing that, it constitutes--the uses
+ constitute--direct infringement of plaintiffs' musical
+ compositions--recordings that are copyrighted. And it is
+ pretty much acknowledged also by Napster that this is
+ infringement unless they can fall back on an affirmative
+ defense because of the warnings that are given to the users
+ of the system that they may be infringing and by statements
+ made in their own documents when this business was getting
+ off the ground.
+
+ Also, according to the evidence before the court, as much as
+ 87 percent of the music--and I think that's a fairly
+ reasonable figure and fairly well supported in the
+ evidence--87 percent of the music available on Napster may
+ be copyrighted. Certainly a substantial amount of it is.
+
+ Now, defendants have raised the fair use defense. That is an
+ affirmative defense. Defendants have the burden on that
+ defense, and to rebut allegations of infringement, they have
+ raised this based upon Sony and its progeny, but
+ particularly Sony, where the Supreme Court stated that any
+ indiivdual may reproduce a copyrighted work for a fair use.
+
+ Sony also stands for the rule that a manufacturer is not
+ liable for selling a staple article of commerce, and that's
+ in quotes from the case, that is, quote, "capable of
+ commercially significant noninfringing uses."
+
+ Fair use and substantial noninfringing use arguments are in
+ fact affirmative defenses, and defendant, as I said, has the
+ burden of showing that a given use constitutes a fair use.
+
+ The court finds that--and then I'll go through the elements
+ of this--but the finding is that any of the potential
+ noninfringing uses of the Napster service are minimal. Some
+ of them seem to be thought of them afterward and after this
+ litigation started; but the substantial or commercially
+ significant use of the service was and continues to be
+ copying popular music, most of which is copyrighted and for
+ which no authorization has been obtained.
+
+ While it may be capable of some of these other things, that
+ seems to--those uses seem to--pale by comparison to what
+ Napster is used for, what it was promoted for, and what it
+ continues to be used for.
+
+ Now, the court must consider, and the factors the court must
+ consider, among others, is, the four that are specifically
+ enumerated in Sony are: The purpose and characteristic of
+ use, including whether it's of a commercial nature; the
+ nature of the copyrighted work; the amount and
+ substantiality of the portion used in relation to the
+ copyrighted work as a whole; and the effect of the use upon
+ the potential market for value of the copyrighted work.
+
+ I think there's not much dispute with respect to the second
+ and third factors. The copyrighted musical compositions and
+ recordings certainly are the paradigmatic kinds of things
+ for which copyrights are obtained. They're creative in
+ nature. They constitute entertainment and also the third
+ factor. They are, in fact, uploaded or downloaded, or at
+ least can be and generally are, in their entirety. Certainly
+ they're generally made available in their entirety.
+
+ As to the first factor, the court finds that although
+ downloading and uploading MP3 music is not a paradigmatic
+ commercial activity, it is not also typical of the personal
+ use--that is, in the traditional sense. It may be what makes
+ this case difficult--or any of the cases involving new
+ technology--is that it is hard sometimes to make a neat fit.
+
+ The mere fact that, that fit is not an easy one does not
+ mean that plaintiffs have to forego enforcing their rights
+ under the copyright laws.
+
+ Plaintiffs have not shown that the majority of Napster users
+ download the music for sale or for profit, and it would
+ appear that they probably do not. However, there is evidence
+ that Napster anticipates proudly that more than 70 million
+ users by the end of the year 2000 will be on Napster in some
+ fashion or another.
+
+ Given the vast scale which Napster and the Internet can in
+ fact access--numbers and numbers of users--and that the uses
+ among anonymous individuals, not just a sharing among
+ friends and typical of the more private use, that cases have
+ seen at the very least a host user sending a file cannot be
+ said to engage merely in the typical personal use when
+ distributing the file to, in this case, many anonymous
+ requesters.
+
+ Moreover, the fact that Napster users get for free something
+ they ordinarily would have to pay for suggests that they
+ reap--the users reap--an economic advantage from Napster
+ use.
+
+ As to the fourth factor, plaintiffs have produced evidence
+ that Napster use harms the market for the copyrighted work
+ in at least two ways, and we've had a number of studies, and
+ I will spell out in the order the problems with some of
+ those studies. I don't think any of them are, you know, what
+ you would call without flaw.
+
+ But selecting out college students, I don't think was
+ inappropriate and, therefore, does not negate the entire
+ study. What it makes clear to the court, however, is that it
+ is only looking at college students and, therefore, we know
+ that it's only looking at a segment of the market.
+ Nonetheless, a segment that Napster itself has said it has
+ targeted. And it gives us a snapshot, particularly for
+ preliminary injunction purposes, of what is happening in a
+ particular market.
+
+ I find that the Fader report is far less persuasive. First
+ of all, he relies upon a number of studies that were printed
+ in The Wall Street Journal and Wired and New York Times, and
+ so forth, which may be fine for marketing purposes and
+ strategizing, but it doesn't do very much for a reliable
+ survey for court purposes. I commend to you Judge
+ Schwarzer's book in that respect.
+
+ But, in any event, even as to the evaluation of the
+ Greenfield survey, I think there are a number of problems
+ with the Greenfield survey. But we don't really have a
+ breakdown other than that one sheet at the end, and it
+ doesn't tell us very much at all about what the answers
+ really were. At least in the Jay report we have the answers
+ that were given to the questions in the questionnaire. So
+ it's far greater use and more probative to the court than
+ the Fader report.

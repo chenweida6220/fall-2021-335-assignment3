@@ -1,0 +1,97 @@
+LINEAR———>
+
+Input words file is words.txt, and query file is query_words.txt
+I will run the linear Hash code 
+TestFunctionForHashTables...
+Words filename: words.txt
+Query filename: query_words.txt
+
+Inserting words into the Hash table...
+
+Statistics for this Hash Table:
+Elements in table: 25143
+Size of the table: 55609
+Load Factor: 0.452139
+Number of Collisions: 24235
+Average Number of Collisions: 0.963887
+
+Beginning seaching for query words:
+alone: Found in 1 probes
+binary: Found in 2 probes
+catastrophe: Found in 1 probes
+dog: Found in 1 probes
+family: Found in 1 probes
+loath: Found in 1 probes
+oath: Found in 11 probes
+zebra: Found in 2 probes
+bikini: Found in 1 probes
+zucchiniaa: Not found in 1 probes
+lwa: Not found in 1 probes
+panacea: Found in 1 probes
+pnca: Not found in 1 probes
+
+
+QUADRATIC——>
+
+Input words file is words.txt, and query file is query_words.txt
+I will run the quadratic Hashing code 
+TestFunctionForHashTables...
+Words filename: words.txt
+Query filename: query_words.txt
+
+Inserting words into the Hash table...
+
+Statistics for this Hash Table:
+Elements in table: 25143
+Size of the table: 55609
+Load Factor: 0.452139
+Number of Collisions: 21214
+Average Number of Collisions: 0.843734
+
+Beginning seaching for query words:
+alone: Found in 1 probes
+binary: Found in 2 probes
+catastrophe: Found in 1 probes
+dog: Found in 1 probes
+family: Found in 1 probes
+loath: Found in 1 probes
+oath: Found in 5 probes
+zebra: Found in 2 probes
+bikini: Found in 1 probes
+zucchiniaa: Not found in 1 probes
+lwa: Not found in 2 probes
+panacea: Found in 1 probes
+pnca: Not found in 1 probes
+
+DOUBLE HASHING ——>
+
+./CreateAndTestHash words.txt query_words.txt double
+Input words file is words.txt, and query file is query_words.txt
+I will run the double Hashing code 
+TestFunctionForHashTables...
+Words filename: words.txt
+Query filename: query_words.txt
+
+Inserting words into the Hash table...
+
+Statistics for this Hash Table:
+Elements in table: 25143
+Size of the table: 55609
+Load Factor: 0.452139
+Number of Collisions: 19112
+Average Number of Collisions: 0.760132
+
+Beginning seaching for query words:
+alone: Found in 1 probes
+binary: Found in 2 probes
+catastrophe: Found in 1 probes
+dog: Found in 1 probes
+family: Found in 1 probes
+loath: Found in 1 probes
+oath: Found in 3 probes
+zebra: Found in 3 probes
+bikini: Found in 1 probes
+zucchiniaa: Not found in 1 probes
+lwa: Not found in 3 probes
+panacea: Found in 1 probes
+pnca: Not found in 1 probes
